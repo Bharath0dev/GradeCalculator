@@ -1,0 +1,158 @@
+body{
+    background-color: lightcyan;
+}
+h1{
+    text-align: center;
+}
+#maindiv{
+    border: solid 2px;
+    width: 400px;
+    height: 500px;
+    margin-left: 550px;
+    margin-right: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-align: center;
+}
+#table1{
+    margin-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sub1{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub2{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub3{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub4{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub5{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub6{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub7{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub8{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub9{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#sub10{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred1{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred2{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred3{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred4{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred5{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred6{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred7{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred8{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred9{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#cred10{
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    border: solid 1px;
+}
+#btn{
+    margin-left: 180px;
+    margin-top: 35px;
+    background-color: white;
+    border: solid red;
+}
+#div2{
+    border: 2px solid;
+    width: 200px;
+    height: 50px;
+    margin-left: 130px;
+    margin-right: 100px;
+    margin-top: 60px;
+    margin-bottom: 90px;
+    border-color: green;
+    text-align: center;
+}
